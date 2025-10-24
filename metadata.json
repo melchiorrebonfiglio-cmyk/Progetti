@@ -1,0 +1,5 @@
+{
+  "name": "Project Tracker CRQ",
+  "description": "An application to manage projects and track the progress of their activities. Each project is identified by a CRQ number and has a predefined set of steps to complete.",
+  "requestFramePermissions": []
+}
